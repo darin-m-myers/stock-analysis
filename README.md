@@ -12,24 +12,34 @@ Steve has asked that the original stock analysis code be refactored to analyze t
 ### Stock Performance between 2017 and 2018
 
 Image 1.1
-![2017 Stock Results](/Resources/VBA_Challenge_2017_Stock_Results.png)
+
+<img src="/Resources/VBA_Challenge_2017_Stock_Results.png" width="400">
+
 
 Image 1.2
-![2018 Stock Results](/Resources/VBA_Challenge_2018_Stock_Results.png)
+
+<img src="/Resources/VBA_Challenge_2018_Stock_Results.png" width="400">
+
 
 ### Execution Times for the Original and Refactored Coded
 
-Image 2.1
-![2017 Original Code Execution Time](/Resources/VBA_Challenge_2017_Original.png)
+  Image 2.1
 
-Image 2.2
-![2017 Refactored Code Execution Time](/VBA_Challenge_2017_Refactored.png)
+  <img src="/Resources/VBA_Challenge_2017_Original.png" width="400">
+  
+  Image 2.2
 
-Image 2.3
-![2018 Original Code Execution Time](/Resources/VBA_Challenge_2018_Original.png)
+  <img src="/Resources/VBA_Challenge_2017_Refactored.png" width="400">
 
-Image 2.4
-![2018 Refactored Code Execution Time](/VBA_Challenge_2018_Refactored.png)
+  Image 2.3
+
+  <img src="/Resources/VBA_Challenge_2018_Original.png" width="400">
+
+  Image 2.4
+
+  <img src="/Resources/VBA_Challenge_2018_Refactored.png" width="400">
+  
+
 
 ## Summary
 
