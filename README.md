@@ -1,4 +1,4 @@
-# Stock Analysis using Python
+# Stock Analysis using Excel VBA
 
 ## Overview of Project
 Steve has asked that the original green stock analysis code be refactored to analyze the entire dataset of stocks. The script needs to be able to recieve input and analyze the correct year of stocks. Then it should provide the resulting formatted summary.
