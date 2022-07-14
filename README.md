@@ -44,17 +44,29 @@ The purpose of this code refactor was to allow the script to analyze all of the 
 
 ### Refactoring Code
  - The advantages of refactoring code are:
-  -
+  1. Refactoring code allows the coder to add additional features and functions to the code.
+  2. Refactoring code can also be used to improve the efficiency of the code.
+  3. Refactoring code can also be used when debugging to deal with new errors that have been discovered by the end users.
  - The disadvantages of refactoring code are:
-  -
+  1. Refactoring code can add new bugs into the code
+  2. Refactoring code may not always improve efficiency
+  3. Refactoring code that the coder did not write requires understanding the code first before it can be adjusted.
+
 ### Original VBA Script
-  - The advantages of the orginal VBA script are:
-  -
+ - The advantages of the orginal VBA script are:
+  1. The original code already works to provide the results needed for a single stock
+  2. The original code has been tested and used by the end user so it functions in the real world environment
+    
  - The disadvantages of the orginal VBA script are:
-  -
+  1. Missing features requested by the end users
+  2. Less efficient than the refactored code
 
 ### The Refactored VBA Script
   - The advantages of the refactored VBA script are:
-  -
+  1. The code was updated to add additional requested features.
+  2. The code was altered to improve efficiency.
+  3. The code can be used in the future with additional data sets for earlier or later years (as long as the data structure does not change).
+
  - The disadvantages of the refactored VBA script are:
-  -
+  1. The code required additional time and resources to add features and increase efficiency.
+  2. The code will work with the stocks already listed, but if new stocks are added, they will be skipped by this script.
