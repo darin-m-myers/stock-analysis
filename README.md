@@ -19,7 +19,7 @@ When considering the summary analysis of 2017 and 2018 results, there was a sign
 
 
 ### Execution Times for the Original and Refactored Code
-The purpose of this code refactor was to allow the script to analyze all of the company returns for any year as well as to attempt to increase efficency. In regards to the effeciancy change, the refactored code running for 2017 ran for 0.106 seconds whereas the original ran for 0.7344. This represented a 85.6% reduction in the execution time. For 2018, the efficency increase was basically the same. The refactored code running for 2018 also ran for 0.106 seconds whereas the original ran for 0.7617. This represented a 86.1% reduction in the execution time. Refactoring this code has succeded in the goal to the increase in effeciency. (Please see the visuals found below for a table of results and the screenshots of each time the script was run)
+The purpose of this code refactor was to allow the script to analyze all of the company returns for any year as well as to attempt to increase efficency. In regards to the effeciancy change, the refactored code running for 2017 ran for 0.106 seconds whereas the original ran for 0.7344. This represented a 85.6% reduction in the execution time. For 2018, the efficency increase was basically the same. The refactored code running for 2018 also ran for 0.106 seconds whereas the original ran for 0.7617. This represented a 86.1% reduction in the execution time. Refactoring this code has succeded in the goal to increase effeciency. (Please see the visuals found below for a table of results and the screenshots of each time the script was run)
 
 #### Visuals
 
